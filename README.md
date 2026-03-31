@@ -1,30 +1,25 @@
-📌 Project Title
+# 🌍 SkyCast – Climate Intelligence System
 
-SkyCast: Climate Change Analysis & Prediction System
+## 📌 Overview
+This project uses AI/ML, Azure, and Power BI to analyze and predict climate data.
 
-📖 Description
+## 🚀 Features
+- Live weather data collection
+- Climate trend analysis
+- Machine learning prediction
+- Dashboard visualization
 
-This project analyzes historical climate data and predicts future conditions using machine learning and time-series forecasting techniques.
+## 🛠️ Tech Stack
+- Python
+- Machine Learning
+- Power BI
+- Azure Cloud
 
-🚀 Features
-Climate trend analysis
-Temperature & AQI prediction
-Time-series forecasting
-Interactive dashboard
-🛠️ Tech Stack
-Python
-Pandas, NumPy
-Scikit-learn
-ARIMA
-Power BI
-📊 Output
-Prediction graphs
-Climate trends
-Dashboard visualization
-▶️ How to Run
-Install requirements
-Run Jupyter Notebook
-View dashboard
-📸 Screenshots
+## 📂 Structure
+- data/
+- src/
+- dashboard/
+- images/
 
-(Add your graphs + dashboard images)
+## 👨‍💻 Author
+Dhanesh Pipaliya
